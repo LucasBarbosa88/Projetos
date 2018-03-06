@@ -1,16 +1,17 @@
 <resources>
     <string name="app_name">WhatsApp</string>
-    <string name="btn_cadastrar">Cadastrar</string>
-    <string name="txt_validacao">Validação</string>
-    <string name="btn_verificar">Validar</string>
-    <string name="btn_validar">Validar</string>
-    <string name="btn_logar">Logar</string>
-    <string name="txt_cadastre">Não tem conta? Cadastre-se</string>
-    <string name="title_activity_cadastro_usuario">CadastroUsuarioActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="item_configuracoes">Configurações</string>
     <string name="item_sair">Sair</string>
-    <string name="item_config">Configurações</string>
-    <string name="item_pesquisa">Pesquisa</string>
-    <string name="item_adicionar">Adicionar</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="title_activity_validador">ValidadorActivity</string>
+    <string name="texto_validacao">Validação</string>
+    <string name="botao_validar">Validar</string>
+    <string name="botao_logar">Logar</string>
+    <string name="texto_cadastre">Não tem conta? Cadastre-se</string>
+    <string name="title_activity_cadastro_usuario">CadastroUsuarioActivity</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

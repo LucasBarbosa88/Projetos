@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WhatsApp.iml" filepath="$PROJECT_DIR$/WhatsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhatsAppAulaContinuar.iml" filepath="$PROJECT_DIR$/WhatsAppAulaContinuar.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
